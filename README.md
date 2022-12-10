@@ -6,9 +6,13 @@ You walk around a proceduarly generated maze trying to pick up coins why avoidin
 
 ## Implementation
 Rotating coins that you pick up to complete the game (there are twenty), also they are made with CSG.
+
 A start, end, and pause menu.
+
 A proceduraly generated maze.
+
 An evil red guy that sends you to the end screen if you touch him.
+
 And all the other basic stuff.
 
 ## References
